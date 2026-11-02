@@ -1,0 +1,35 @@
+x: 5.544444561004639
+y: 5.544444561004639
+theta: 0.0
+linear_velocity: 0.0
+angular_velocity: 0.0
+---
+Exit code: 0
+
+Files:             0_bag_2026_11_02-10_25_54.mcap
+Bag size:          379.4 KiB
+Storage id:        mcap
+ROS Distro:        lyrical
+Duration:          86.431625055s
+Start:             Nov  2 2026 10:25:54.574818811 (1793604354.574818811)
+End:               Nov  2 2026 10:27:21.006443866 (1793604441.006443866)
+Messages:          5403
+Topic information: Topic: /robot_a/sensor_pose | Type: turtlesim_msgs/msg/Pose | Count: 5403 | Serialization Format: cdr
+Services:          0
+Service information: 
+Actions:           0
+Action information: 
+
+Files:             0_bag_2026_11_02-10_25_54.mcap
+Bag size:          379.4 KiB
+Storage id:        mcap
+ROS Distro:        lyrical
+Duration:          86.431625055s
+Start:             Nov  2 2026 10:25:54.574818811 (1793604354.574818811)
+End:               Nov  2 2026 10:27:21.006443866 (1793604441.006443866)
+Messages:          5403
+Topic information: Topic: /robot_a/sensor_pose | Type: turtlesim_msgs/msg/Pose | Count: 5403 | Serialization Format: cdr
+Services:          0
+Service information: 
+Actions:           0
+Action information: 
